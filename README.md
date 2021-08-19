@@ -4,7 +4,7 @@ Created by Andreas Hennings using Blender 2.92
 
 A vulcanic eruption animation, rendered using Eevee renderer.
 
-Project includes volumetric clouds, hdri background image, particle and smoke simulations.
+Project includes volumetric clouds, a procedural lava material and particle systems for erupting particles.
 
 Project file includes HDRI background image from polyhaven.com and PBR materials from ambientcg.com
 
